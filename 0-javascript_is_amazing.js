@@ -1,4 +1,3 @@
-
 // Declare a constant variable
 const myVar = "JavaScript is amazing";
 
